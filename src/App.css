@@ -19,6 +19,10 @@ li {
   line-height: 25px;
 }
 
+a {
+  text-decoration: none;
+}
+
 .App {
   text-align: center;
 }
@@ -79,6 +83,12 @@ li {
 
 .App-link {
   color: #61dafb;
+}
+
+.Footer {
+  font-size: 12px;
+  position: absolute;
+  bottom: 170px;
 }
 
 @keyframes App-logo-spin {
